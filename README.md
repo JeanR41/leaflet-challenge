@@ -17,7 +17,9 @@ Only Part 1 of this challenge was completed. The Leaflet-Part-1 folder has all n
 
 ## Technologies Used
  **Leaflet**
+ 
  **D3.js** (a JavaScript library used to handle and visualize the GeoJSON data.)
+ 
  **GeoJSON**
 
 ## Data Source
