@@ -20,6 +20,6 @@ This project visualizes earthquake data using the Leaflet library and GeoJSON da
 ## Data Source
 The earthquake data used in this project is sourced from the USGS All Earthquakes in the Past 7 Days dataset. This dataset includes real-time earthquake information, and can be accessed through https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 
-chose GeoJSON for "All Eathquakes" in the Past 7 Days"
-
-This view was chosen to include both the continental US and Alaska. However, users can zoom in or out and shift the map as needed to see data across the globe.
+## How to Use
+1. Clone this repository to your local machine.
+2. Open the index.html file in your browser to view the interactive map.
